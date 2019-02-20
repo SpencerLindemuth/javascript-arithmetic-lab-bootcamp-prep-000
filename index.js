@@ -19,8 +19,9 @@ function inc(a){
   return a
 }
 
-function dec(a){
-  return a--
+function dec(a){  
+  a--
+  return a
 }
 
 function makeInt(a){
